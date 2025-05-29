@@ -1,5 +1,7 @@
 <div>
-![header](https://capsule-render.vercel.app/api?  type=waving&color=gradient&height=300&section=header&text=The%20one%20who%20continues%20wins%20)
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=The%20one%20who%20continues%20wins%20)
   
 </div>
 
