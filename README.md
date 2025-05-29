@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=The%13one%13who%13continues%13wins%13)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=The%13one%13who%13continues%13wins%13)
 
 
 <!--
