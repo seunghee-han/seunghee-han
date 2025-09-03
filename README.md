@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <br/>
   
-  ### Framework
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <br/>
   
   ### ETC
   <!--Amazon AWS-->
