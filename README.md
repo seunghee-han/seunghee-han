@@ -10,8 +10,8 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a AI Engineer from South Korea.<br/>
-  #### :mortar_board: MS in AI-Imaging, Chung-Ang University(CAU)
-  #### :mortar_board: BS in AI&bigdata engineering, Daegu Catholic University(DCU)
+  #### :mortar_board: MS in AI-Imaging
+  #### :mortar_board: BS in AI&bigdata engineering
 
   <br/>
   <br/>
