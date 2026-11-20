@@ -11,9 +11,8 @@
 
   ## 👀 About Me
   #### 🙋‍♀️ Hi, I'm Seunghee Han, an AI Engineer who turns data into real-world value.
-  #### 🎓 M.S. in AI Imaging, Graduate School of Advanced Imaging Science, Chung-Ang University
-  #### 📚 From computer vision and generative-model research to video analytics and LLM/RAG services.
-  #### 🔗 [Google Scholar](https://scholar.google.co.kr/citations?user=Om9iYXAAAAAJ&hl=ko)
+  #### 🎓 M.S. in AI Imaging, Graduate School of Chung-Ang University
+  #### 🎓 B.S. in AI & Bigdata Engineering
 
   <br/>
 
