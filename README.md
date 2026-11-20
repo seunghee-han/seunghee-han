@@ -20,7 +20,7 @@
   ## 💼 Career
   | Period | Company / Team | Role | Focus |
   |---|---|---|---|
-  | 2026.07 – Present | Kancode / AX Research Team | Senior Engineer | Video analytics solutions, intelligent video surveillance for public agencies |
+  | 2026.07 – Present | Kankord / AX Research Team | Senior Engineer | Video analytics solutions, intelligent video surveillance for public agencies |
   | 2025.10 – 2026.06 | GSF Solution / SW Team | Manager | AI solutions for the semiconductor domain, process-data automation, knowledge-graph RAG |
   | 2022.07 – 2022.08 | Korea Institute of Energy Research | Intern | Arc fault prediction modeling |
   | 2021.07 | T3Q | Intern | Web crawling system development |
